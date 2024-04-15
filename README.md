@@ -8,3 +8,4 @@ I followed the Roll Ball Unity Tutorial and made the following modifications:
 
 3. **Gameplay Mechanic Change:** I implemented a time limit where players must collect the cubes within 1 minute. Failure to do so results in a "You Lose" message. Additionally, adjusted the game mechanics so that points cannot be accumulated after losing.
 
+4. **Added Walls to Simulate a Maze:** Created walls to simulate a labyrinth environment, adding challenge to the gameplay.
